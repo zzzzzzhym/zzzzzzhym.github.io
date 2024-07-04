@@ -13,6 +13,7 @@ Yiming is a control engineer in the autonomous driving industry and a graduate o
 A Python-based drone simulation in 3D space has been developed to apply control algorithms in aerial robotics.  
 <img src="../images/drone/randomly_sampled_trajectory_10seeds.png" alt="Example Image" width="500" height="400">
 <img src="../images/drone/drone_tracking_a_trajectory.png" alt="Example Image" width="500" height="400">
+<img src="../images/drone/drone_tracking_a_random_trajectory.png" alt="Example Image" width="500" height="400">
 
 A MATLAB/Simulink-based vehicle simulator has been developed to apply control algorithms for lane-following.    
 <img src="../images/vehicle/xy.png" alt="Example Image" width="500" height="400">
