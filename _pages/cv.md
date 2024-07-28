@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<embed src="{{ site.baseurl }}/files/cv_Phd.pdf" width="600" height="700" type='application/pdf'>
+<a href="{{ site.baseurl }}/files/YimingZhang_resume.pdf" download>Download PDF</a>
+<embed src="{{ site.baseurl }}/files/YimingZhang_resume.pdf" width="600" height="700" type='application/pdf'>
